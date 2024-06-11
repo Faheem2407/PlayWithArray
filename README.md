@@ -11,7 +11,7 @@ How to use this package:
          (1). 23 is not present in this array.
          (2). 8 is found at position 4.
    
-5. call sortArray function to make the passing array sorted. like this: print_r($a->sortArray());
+5. call sortArray function to make the passing array sorted. like this: print_r($object->sortArray());
     output: { [0]=>5, [1]=>8, [2]=>21, [3]=>43, [4]=>56, [5]=>92 }
     
 
